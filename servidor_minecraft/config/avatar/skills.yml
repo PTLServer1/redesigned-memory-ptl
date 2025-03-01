@@ -1,0 +1,55 @@
+IGNORE_CONFIG_FILE: false
+
+abilitySettings:
+  burnoutMult: 1.5
+  burnoutRecoverMult: 1.0
+  chiHitMult: 1.5
+  chiMult: 0.5875
+  cooldownMult: 0.4
+  damageMult: 1.0
+  exhaustionMult: 0.675
+  generateAbilities: true
+  infiniteScaling: false
+  maxScaleLevel: 1.0
+  overrideAbilities: true
+  powerLevel: 1.0
+  speedMult: 1.0
+  useRadialMouse: true
+  useRadialNumbers: true
+airBladeHit: 3.0
+airBurstHit: 4.0
+airGustHit: 3.0
+airJump: 2.0
+airbubbleProtect: 6.0
+blockKill: 4.0
+blockPlaced: 5.0
+blockThrowHit: 6.5
+buffUsed: 4.0
+cloudburstHit: 5.0
+createBubble: 15.0
+earthspikeHit: 3.0
+fireJump: 5.0
+fireShotHit: 3.0
+fireballHit: 4.5
+flameStrikeHit: 3.0
+flamethrowerHit: 0.75
+icePrisoned: 10.0
+iceShieldCreated: 2.0
+iceShieldProtected: 6.0
+lightningspearHit: 6.0
+madeLightning: 3.0
+miningBreakOre: 3.5
+miningUse: 2.5
+multipleElements: true
+ravineHit: 3.0
+sandPrisoned: 9.0
+sandstormPickedUp: 5.0
+setKeepInventory: true
+startWithRandomBending: true
+struckWithLightning: 5.0
+wallBlockedAttack: 3.0
+wallRaised: 1.0
+wallReach: 2.0
+waterHit: 3.0
+waterSkateOneSecond: 1.5
+waveHit: 4.0

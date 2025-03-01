@@ -1,0 +1,2 @@
+AbandonedWoodTower,-2371,-2335,-5624,-5594
+ClayWaterMound1,-2491,-2481,-5601,-5590

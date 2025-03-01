@@ -1,0 +1,5 @@
+RLCraft_DecentSkeleton,-3999,-3999,833,833
+RLCraft_UndergroundRuin2,-4001,-3994,828,838
+ShrineSmallAir,-4037,-4029,846,854
+StonePlantMound2,-4065,-4052,902,914
+StonePlantMound1,-4041,-4035,650,656

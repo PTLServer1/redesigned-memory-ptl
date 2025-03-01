@@ -1,0 +1,9 @@
+RLCraft_SmallUndergroundSkeleton,1587,1595,-6651,-6643
+StonePlantBoulder,1539,1549,-6553,-6543
+RLCraft_DecentSpider,1649,1649,-6552,-6552
+RLCraft_UndergroundRuin3,1647,1655,-6555,-6547
+StonePlantMound,1548,1553,-6481,-6476
+StoneBoulder,1897,1906,-6311,-6302
+RLCraft_Vineyard,1885,1905,-6318,-6290
+StoneLeafMound,1925,1932,-6438,-6429
+SmallAbandonedMine,1707,1722,-6543,-6518
