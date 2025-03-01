@@ -9,3 +9,4 @@ StonePlantMound,-4305,-4300,752,757
 StonePlantMound,-4120,-4115,625,630
 RLCraft_LargeUndergroundTown,-4166,-4053,610,747
 StonePlantMound,-4329,-4324,731,736
+MeteorSite,-4114,-4084,953,968

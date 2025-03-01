@@ -1,0 +1,14 @@
+MeteorSite,3689,3719,-4521,-4506
+SeasonsGreenhouse,3862,3874,-4478,-4468
+P_VillageFarmhouse,3840,3852,-4464,-4452
+VillageSavannaChandlery,3862,3873,-4463,-4453
+VillageTriplets,3899,3913,-4471,-4457
+DesertWatchtower,3587,3597,-4569,-4559
+VillageSavannaStonemason,3812,3827,-4450,-4434
+VillageSavannaKitchen,3840,3850,-4442,-4430
+VillageWoodMill,3862,3878,-4437,-4424
+ThreeTowers,3811,3843,-4414,-4383
+VillageSavannaGlassworks,3877,3887,-4419,-4407
+SmallFortRuins,3763,3793,-4349,-4317
+BigClockworkSite,3587,3622,-4363,-4318
+ShrineSmallFire,3697,3707,-4316,-4306

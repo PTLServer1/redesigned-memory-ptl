@@ -5,3 +5,15 @@ RLCraft_UndergroundRuin1,-2466,-2457,-5637,-5628
 RLCraft_DecentSpider,-2323,-2323,-5701,-5701
 RLCraft_UndergroundRuin3,-2326,-2318,-5703,-5695
 StonePlantMound,-2316,-2311,-5708,-5703
+P_AncientTeleporter,-2354,-2319,-5815,-5782
+RLCraft_DecentSpider,-2522,-2522,-5761,-5761
+RLCraft_UndergroundRuin3,-2524,-2516,-5766,-5758
+StoneLeafMound,-2555,-2546,-5705,-5698
+RLCraft_BasicSpider,-2543,-2543,-5655,-5655
+RLCraft_UndergroundRuin1,-2546,-2537,-5661,-5652
+RLCraft_Vineyard,-2316,-2288,-5815,-5795
+VillageTriplets,-2332,-2318,-5836,-5822
+P_VillageFarmhouse,-2313,-2301,-5836,-5824
+StoneBoulder,-2256,-2247,-5755,-5746
+RLCraft_SmallUndergroundSkeleton,-2218,-2210,-5697,-5689
+StoneLeafMound,-2142,-2133,-5644,-5637

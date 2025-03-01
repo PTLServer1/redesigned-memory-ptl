@@ -1,0 +1,15 @@
+StoneLeafMound,-6276,-6269,9308,9317
+StonePlantMound4,-6281,-6274,9329,9336
+StonePlantMound3,-6315,-6304,9320,9329
+StoneBoulder,-6293,-6284,9346,9355
+BrickHenge,-6360,-6344,9271,9287
+Tree_Oak_TheMushroomOak_v3,-6375,-6316,9294,9344
+StonePlantMound3,-6387,-6376,9286,9295
+ShrineSmallFire,-6192,-6182,9226,9236
+StonePlantMound3,-6408,-6399,9367,9378
+DinosaurSkull,-6425,-6406,9300,9311
+PirateChest,-6404,-6400,9409,9413
+StoneBoulder,-6411,-6402,9435,9444
+RLCraft_SmallUndergroundSkeleton,-6161,-6153,9443,9451
+RLCraft_BasicZombie,-6414,-6414,9445,9445
+RLCraft_UndergroundRuin1,-6420,-6411,9439,9448
