@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-03-02 18:04:59 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:wood_nunchaku": {
     "criteria": {
       "has_stick": "2025-03-01 23:54:11 +0000"
@@ -113,7 +119,9 @@
       "deep_ocean": "2025-03-01 23:20:39 +0000",
       "beaches": "2025-03-01 23:22:50 +0000",
       "savanna": "2025-03-01 23:32:53 +0000",
-      "river": "2025-03-02 00:19:03 +0000"
+      "savanna_rock": "2025-03-02 17:47:20 +0000",
+      "river": "2025-03-02 00:19:03 +0000",
+      "desert": "2025-03-02 17:57:51 +0000"
     },
     "done": false
   },
@@ -273,6 +281,12 @@
     },
     "done": true
   },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2025-03-02 17:48:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-03-02 00:07:24 +0000"
@@ -294,6 +308,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-03-02 00:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-02 17:47:24 +0000"
     },
     "done": true
   },
@@ -339,6 +359,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-03-02 18:04:59 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:wood_hammer": {
     "criteria": {
       "has_stick": "2025-03-01 23:54:11 +0000"
@@ -381,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-02 17:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-03-01 23:59:55 +0000"
@@ -417,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-02 17:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-02 17:37:43 +0000"
@@ -444,6 +482,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_planks": "2025-03-01 23:20:36 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-03-02 17:55:04 +0000"
     },
     "done": true
   },

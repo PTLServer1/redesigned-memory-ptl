@@ -1,0 +1,3 @@
+ClayWaterMound1,9228,9238,9199,9210
+StonePlantBoulder,9216,9226,9185,9195
+MeteorSite,9256,9271,9187,9217

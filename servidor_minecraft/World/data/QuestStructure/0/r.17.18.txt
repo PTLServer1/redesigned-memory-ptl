@@ -1,0 +1,9 @@
+ShrineSmallFire,9166,9176,9323,9333
+RLCraft_DecentSpider,9142,9142,9266,9266
+RLCraft_UndergroundRuin3,9140,9148,9263,9271
+StonePlantMound4,9100,9107,9378,9385
+RLCraft_SmallUndergroundSkeleton,9108,9116,9384,9392
+RLCraft_SmallUndergroundSkeleton,9197,9205,9384,9392
+StonePlantMound2,9160,9172,9403,9416
+RLCraft_PhilbosaurusRex,9004,9078,9263,9296
+StonePlantMound4,9057,9064,9488,9495

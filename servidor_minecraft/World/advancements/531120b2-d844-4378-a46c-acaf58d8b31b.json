@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-02 17:50:52 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_spear": {
     "criteria": {
       "has_stone": "2025-03-01 23:32:40 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-02 17:54:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2025-03-01 23:25:22 +0000"
@@ -230,6 +242,12 @@
   "mujmajnkraftsbettersurvival:wood_hammer": {
     "criteria": {
       "has_stick": "2025-03-01 23:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-02 17:50:52 +0000"
     },
     "done": true
   },
@@ -422,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-02 17:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "deep_ocean": "2025-03-01 23:37:13 +0000",
@@ -439,6 +463,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-02 00:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-02 17:50:59 +0000"
     },
     "done": true
   },
@@ -508,6 +538,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2025-03-02 18:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2025-03-01 23:25:22 +0000"
@@ -523,6 +559,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-03-01 23:25:22 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:cannibal": {
+    "criteria": {
+      "criteria_0": "2025-03-02 17:57:31 +0000"
     },
     "done": true
   },
@@ -631,6 +673,18 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_planks": "2025-02-28 22:05:05 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-03-02 18:01:38 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-03-02 18:02:00 +0000"
     },
     "done": true
   },

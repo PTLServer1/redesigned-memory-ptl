@@ -1,0 +1,8 @@
+DinosaurSkull,9216,9235,9263,9274
+StonePlantMound3,9257,9268,9262,9271
+RLCraft_DecentSkeleton,9248,9248,9220,9220
+RLCraft_UndergroundRuin3,9246,9254,9215,9223
+StonePlantMound4,9314,9321,9236,9243
+Tree_Oak_TheMushroomOak_v3,9270,9320,9439,9498
+StonePlantBoulder,9233,9243,9494,9504
+StonePlantMound1,9253,9259,9499,9505

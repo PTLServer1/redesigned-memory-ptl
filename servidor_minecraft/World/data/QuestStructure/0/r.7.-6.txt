@@ -1,0 +1,6 @@
+RLCraft_SmallUndergroundSkeleton,3769,3777,-3086,-3078
+RLCraft_SmallUndergroundSkeleton,3698,3706,-3160,-3152
+RLCraft_AgentStarbuck_WaterBase,3786,3803,-3301,-3289
+RLCraft_DecentCaveSpider,3842,3842,-3300,-3300
+RLCraft_UndergroundRuin2,3837,3847,-3305,-3298
+RLCraft_AgentStarbuck_WaterBase,3938,3955,-3215,-3203
