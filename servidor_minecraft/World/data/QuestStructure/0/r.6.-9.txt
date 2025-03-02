@@ -1,9 +1,0 @@
-RLCraft_DecentWitch,3524,3524,-4804,-4804
-RLCraft_UndergroundRuin2,3519,3529,-4806,-4799
-RLCraft_BasicCaveSpider,3439,3439,-4654,-4654
-RLCraft_UndergroundRuin1,3433,3442,-4657,-4648
-ShrineSmallFire,3401,3411,-4767,-4757
-RLCraft_BasicSkeleton,3498,3498,-5064,-5064
-RLCraft_UndergroundRuin1,3492,3501,-5070,-5061
-RLCraft_DecentSpider,3454,3454,-5093,-5093
-RLCraft_UndergroundRuin2,3449,3459,-5095,-5088

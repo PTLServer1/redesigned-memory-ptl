@@ -1,5 +1,0 @@
-StonePlantMound,-459,-454,-6643,-6638
-SmallAbandonedOutpost,-432,-410,-6652,-6622
-StonePlantMound1,-514,-508,-6543,-6537
-StoneLeafMound,-447,-438,-6532,-6525
-StonePlantMound4,-328,-321,-6620,-6613

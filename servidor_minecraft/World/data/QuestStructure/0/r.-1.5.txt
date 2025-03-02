@@ -1,6 +1,0 @@
-StoneBoulder,-614,-605,3014,3023
-StonePlantMound4,-583,-576,3053,3060
-StonePlantMound4,-568,-561,3034,3041
-StonePlantMound3,-576,-567,2907,2918
-ElvenPond,-528,-498,2962,2991
-StonePlantMound1,-567,-561,2898,2904

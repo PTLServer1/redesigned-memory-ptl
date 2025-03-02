@@ -1,4 +1,0 @@
-DesertWatchtower,7199,7209,-2296,-2286
-VillageMarketplace,7228,7242,-2277,-2263
-RLCraft_DecentWitch,7203,7203,-2322,-2322
-RLCraft_UndergroundRuin3,7197,7205,-2325,-2317

@@ -1,5 +1,0 @@
-VillageTriplets,-7124,-7110,-8714,-8700
-VillageInn,-7100,-7073,-8729,-8709
-StonePlantMound4,-7112,-7105,-8741,-8734
-P_VillageLibrary,-7100,-7084,-8752,-8733
-StonePlantMound3,-7141,-7132,-8791,-8780

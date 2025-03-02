@@ -1,3 +1,0 @@
-RLCraft_SmallUndergroundSkeleton,-470,-462,-6832,-6824
-RLCraft_BasicCaveSpider,-421,-421,-6846,-6846
-RLCraft_UndergroundRuin1,-427,-418,-6849,-6840

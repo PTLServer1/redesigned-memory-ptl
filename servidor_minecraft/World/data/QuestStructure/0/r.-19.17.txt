@@ -1,3 +1,0 @@
-StonePlantMound,-10066,-10061,8728,8733
-StoneLeafMound,-10086,-10077,8753,8760
-StonePlantMound1,-9904,-9898,8758,8764

@@ -1,4 +1,0 @@
-ShrineSmallFire,1896,1906,-4968,-4958
-RLCraft_SmallUndergroundSkeleton,1978,1986,-5071,-5063
-StonePlantMound2,1799,1811,-4996,-4983
-RLCraft_SmallUndergroundSkeleton,2014,2022,-5003,-4995

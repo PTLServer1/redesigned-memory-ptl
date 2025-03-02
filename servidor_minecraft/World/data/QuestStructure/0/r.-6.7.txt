@@ -1,2 +1,0 @@
-SmallWoodenCottage1,-3336,-3330,3812,3823
-ShrineSmallFire,-3283,-3273,3903,3913

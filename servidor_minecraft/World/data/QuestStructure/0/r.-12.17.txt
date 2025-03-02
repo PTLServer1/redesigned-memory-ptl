@@ -1,3 +1,0 @@
-SmallWoodenCottage1,-6408,-6397,9208,9214
-ShrineSmallAir,-6441,-6433,9209,9217
-StoneBoulder,-6435,-6426,9194,9203

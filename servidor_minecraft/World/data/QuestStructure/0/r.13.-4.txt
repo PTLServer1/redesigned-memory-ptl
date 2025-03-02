@@ -1,5 +1,0 @@
-DesertBeacon,6941,6947,-2087,-2081
-DinosaurSkeleton,6917,6926,-2371,-2325
-RLCraft_DecentWitch,6861,6861,-2375,-2375
-RLCraft_UndergroundRuin3,6859,6867,-2378,-2370
-DinosaurSkeleton,6907,6953,-2382,-2373

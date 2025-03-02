@@ -1,2 +1,0 @@
-BlazeSpawnerCrystal,-6557,-6551,10259,10265
-BlazeSpawnerCrystal,-6481,-6475,10293,10299

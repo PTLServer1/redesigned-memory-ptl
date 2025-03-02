@@ -1,7 +1,0 @@
-RLCraft_SmallUndergroundSkeleton,3567,3575,-4328,-4320
-RLCraft_DecentCaveSpider,3512,3512,-4498,-4498
-RLCraft_UndergroundRuin3,3509,3517,-4500,-4492
-FallenPalmTree,3478,3488,-4413,-4409
-RLCraft_DecentWitch,3467,3467,-4569,-4569
-RLCraft_UndergroundRuin3,3465,3473,-4574,-4566
-RLCraft_FriendlyOutpost,3543,3611,-4138,-4099
