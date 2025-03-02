@@ -5,3 +5,4 @@ SeasonsGreenhouse,3721,3731,-4826,-4814
 P_WitchDungeon,3739,3756,-4765,-4731
 RLCraft_DecentCaveSpider,3929,3929,-4666,-4666
 RLCraft_UndergroundRuin3,3924,3932,-4668,-4660
+ShrineSmallWater,3958,3966,-4961,-4953
