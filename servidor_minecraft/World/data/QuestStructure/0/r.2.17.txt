@@ -1,0 +1,14 @@
+StonePlantBoulder,1231,1241,9119,9129
+StonePlantMound,1212,1217,9082,9087
+RLCraft_BasicSkeleton,1135,1135,9211,9211
+RLCraft_UndergroundRuin1,1129,1138,9208,9217
+RLCraft_DecentCaveSpider,1114,1114,9188,9188
+RLCraft_UndergroundRuin2,1112,1119,9183,9193
+RLCraft_PlainsCamp,1117,1156,9183,9229
+DinosaurSkull,1123,1142,9116,9127
+StonePlantBoulder,1229,1239,9053,9063
+RLCraft_DecentSkeleton,1087,1087,9176,9176
+RLCraft_UndergroundRuin3,1082,1090,9174,9182
+SmallWoodenCottage,1106,1114,9142,9153
+RLCraft_SmallUndergroundSkeleton,1084,1092,9114,9122
+ShrineSmallFire,1347,1357,9072,9082

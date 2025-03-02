@@ -1,1 +1,2 @@
 StonePlantMound1,-1733,-1727,-7930,-7924
+StonePlantMound2,-1750,-1737,-8039,-8027

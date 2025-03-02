@@ -1,0 +1,5 @@
+RLCraft_DecentWitch,3591,3591,-1723,-1723
+RLCraft_UndergroundRuin3,3585,3593,-1728,-1720
+DinosaurSkeleton,3569,3615,-1755,-1746
+StoneBoulder,3622,3631,-1821,-1812
+StoneBoulder,3589,3598,-1998,-1989

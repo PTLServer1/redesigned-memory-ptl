@@ -1,0 +1,9 @@
+RLCraft_DecentSpider,12,12,-2726,-2726
+RLCraft_UndergroundRuin3,6,14,-2731,-2723
+StonePlantMound3,-181,-170,-2770,-2761
+DinosaurSkeleton,-235,-189,-2748,-2739
+RLCraft_DecentWitch,-213,-213,-2780,-2780
+RLCraft_UndergroundRuin3,-216,-208,-2786,-2778
+Tree_Oak_TheMushroomOak_v3,-213,-154,-2804,-2754
+StonePlantBoulder,-192,-182,-2828,-2818
+StonePlantMound3,-238,-227,-2788,-2779

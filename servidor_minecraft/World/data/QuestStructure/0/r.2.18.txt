@@ -1,0 +1,10 @@
+RLCraft_BasicCaveSpider,1162,1162,9221,9221
+RLCraft_UndergroundRuin1,1156,1165,9215,9224
+P_VillageFarmhouse,1270,1282,9258,9270
+SeasonsGreenhouse,1259,1269,9284,9296
+P_Village2Story,1234,1240,9302,9315
+VillageWoodMill,1291,1307,9291,9304
+SeasonsGreenhouse,1282,1292,9312,9324
+P_VillageInn,1312,1323,9291,9300
+StonePlantBoulder,1126,1136,9308,9318
+MysticalTree,1141,1157,9319,9334
