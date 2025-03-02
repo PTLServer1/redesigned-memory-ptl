@@ -1,0 +1,8 @@
+StonePlantMound,-6492,-6487,10193,10198
+RLCraft_UndergroundFarm,-6561,-6519,10068,10111
+RLCraft_DecentWitch,-6614,-6614,10104,10104
+RLCraft_UndergroundRuin3,-6617,-6609,10102,10110
+StonePlantMound1,-6408,-6402,10118,10124
+StoneLeafMound,-6636,-6627,10036,10043
+StoneLeafMound,-6428,-6421,10007,10016
+StonePlantMound3,-6395,-6386,10035,10046

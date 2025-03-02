@@ -261,6 +261,7 @@
     "criteria": {
       "chicken": "2025-03-01 23:35:23 +0000",
       "beef": "2025-03-01 23:35:18 +0000",
+      "apple": "2025-03-02 18:59:38 +0000",
       "potato": "2025-03-01 23:33:47 +0000",
       "mutton": "2025-03-02 00:00:12 +0000"
     },
@@ -651,6 +652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-03-02 18:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-03-01 23:40:15 +0000"
@@ -819,6 +826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-03-02 18:54:35 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/obelisks": {
     "criteria": {
       "criteria_0": "2025-03-02 17:41:49 +0000"
@@ -864,6 +877,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-03-02 17:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-03-02 18:59:06 +0000"
     },
     "done": true
   },
@@ -990,6 +1009,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-03-02 18:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-02 18:49:37 +0000"
     },
     "done": true
   },
@@ -1137,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-02 18:49:37 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-02 18:21:59 +0000"
@@ -1164,6 +1195,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-03-02 18:25:45 +0000",
+      "birch_forest": "2025-03-02 19:03:06 +0000",
       "deep_ocean": "2025-03-01 23:37:13 +0000",
       "beaches": "2025-02-28 22:05:06 +0000",
       "desert_hills": "2025-03-01 23:41:46 +0000",
