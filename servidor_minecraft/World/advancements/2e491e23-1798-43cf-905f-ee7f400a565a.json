@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-03-02 00:27:48 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_spear": {
     "criteria": {
       "has_stone": "2025-03-01 23:59:55 +0000"
@@ -114,6 +120,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-03-02 00:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-02 00:27:48 +0000"
     },
     "done": true
   },
@@ -462,6 +474,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-03-02 00:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-03-02 00:27:48 +0000"
     },
     "done": true
   }
