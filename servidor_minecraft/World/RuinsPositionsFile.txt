@@ -18,6 +18,10 @@
 -9931 62 8557 -9919 84 8569 BaloonVeryLow.tml
 -9868 63 8474 -9860 71 8485 MinersHut.tml
 -9860 63 8702 -9853 76 8708 TP_FishingShack.tml
+-8427 62 -9729 -8419 72 -9721 LargeStoneHouseWBasement.tml
+-8426 3 -9696 -8423 145 -9693 Beacon.tml
+-8354 63 -9768 -8342 117 -9756 BaloonHigh.tml
+-8349 48 -9775 -8338 59 -9739 SunkenShip-v3.tml
 -7735 51 1279 -7699 62 1290 SunkenShip-v3.tml
 -7593 32 1246 -7567 44 1254 shipwreck.tml
 -7582 63 1255 -7547 73 1289 UnderwaterBase.tml
@@ -209,12 +213,14 @@
 3679 64 -4673 3688 71 -4664 WoodHouse2_Intact.tml
 3709 69 -4757 3713 77 -4753 SmallWell.tml
 3711 63 -5059 3717 76 -5052 TP_FishingShack.tml
+3712 69 -4144 3718 80 -4138 Obelisk.tml
 3718 65 -4323 3731 76 -4310 BlockHenge.tml
 3724 68 -4585 3736 114 -4573 Tower-edit.tml
 3741 73 -4497 3753 118 -4485 TowerMedium.tml
 3743 69 -4241 3753 79 -4229 Piston-LavaTrap.tml
 3751 63 -4976 3755 65 -4972 EmeraldOreOutcrop.tml
 3758 65 -4401 3766 75 -4393 LargeStoneHouseWBasement.tml
+3796 77 -4161 3801 82 -4154 ZombieHut.tml
 3796 64 -4783 3813 68 -4774 RuinedTripleFountain.tml
 3804 66 -4657 3812 75 -4649 LargeStoneTwoStoryHouse.tml
 3822 68 -4922 3834 78 -4912 Piston-LavaTrap.tml
