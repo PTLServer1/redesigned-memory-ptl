@@ -71,6 +71,12 @@
 -3942 63 564 -3912 106 594 SkyCastle.tml
 -3926 63 -874 -3896 106 -844 SkyCastle.tml
 -3831 84 -861 -3823 90 -853 LargeStoneHouse.tml
+-3425 63 3832 -3418 76 3838 TP_FishingShack.tml
+-3407 46 3701 -3381 58 3709 shipwreck.tml
+-3343 62 3776 -3331 84 3788 BaloonVeryLow.tml
+-3341 63 3883 -3310 103 3913 CastleOcean.tml
+-3313 63 3649 -3283 106 3679 SkyCastle.tml
+-3262 63 3754 -3228 73 3789 UnderwaterBase.tml
 -2570 86 -5775 -2563 91 -5770 ZombieHut.tml
 -2532 62 -5642 -2525 66 -5635 TinyFarmField.tml
 -2505 62 -5521 -2501 70 -5517 SmallWell.tml
@@ -104,12 +110,19 @@
 -1848 64 -5304 -1840 74 -5296 LargeStoneHouseWBasement.tml
 -1848 62 -5382 -1843 70 -5377 PillarBase.tml
 -1809 63 -5553 -1794 74 -5542 Barn-ruined.tml
+-1774 68 -7882 -1769 76 -7877 PillarBase.tml
 -1773 82 -5232 -1770 86 -5229 StoneGrill.tml
 -1770 72 -5342 -1763 79 -5335 Outcrop.tml
 -1765 79 -5142 -1756 90 -5131 ArrowTrapTomb.tml
+-1745 72 -7955 -1737 78 -7947 LargeStoneHouse.tml
 -1704 61 -5470 -1700 67 -5467 StonePillar.tml
 -1691 68 -5345 -1688 72 -5343 SkeletonHeadStatue.tml
+-1666 68 -8005 -1663 72 -8002 StoneGrill.tml
+-1654 63 -7794 -1623 103 -7764 CastleOcean.tml
+-1642 42 -7916 -1631 53 -7880 SunkenShip-v3.tml
 -1638 67 -5231 -1631 71 -5224 TinyFarmField.tml
+-1576 47 -8029 -1565 66 -7993 SunkenShip-v2.tml
+-1558 41 -7906 -1550 53 -7880 shipwreck.tml
 -541 63 -5976 -534 66 -5971 PumpkinField.tml
 -495 72 -6113 -491 74 -6109 EmeraldOreOutcrop.tml
 -455 63 -5909 -447 72 -5901 LargeStoneTwoStoryHouse.tml
@@ -170,6 +183,7 @@
 3274 67 1504 3281 71 1511 TinyFarmField.tml
 3296 67 1596 3303 74 1603 Outcrop.tml
 3305 62 2060 3312 67 2065 ZombieHut.tml
+3342 59 -4982 3350 105 -4974 SandCastle.tml
 3358 76 1784 3367 84 1792 WoodHouse_Intact.tml
 3363 64 1901 3380 97 1918 SpiralTree.tml
 3368 82 1497 3372 90 1501 SmallWell.tml
@@ -177,6 +191,7 @@
 3374 63 1618 3381 66 1623 PumpkinField.tml
 3386 63 2096 3417 103 2126 CastleOcean.tml
 3403 63 1688 3407 65 1692 EmeraldOreOutcrop.tml
+3407 63 -5106 3439 76 -5074 Floater.tml
 3410 63 -4714 3419 74 -4703 ArrowTrapTomb.tml
 3425 48 -4850 3451 60 -4842 shipwreck.tml
 3438 63 -5004 3450 104 -4992 BaloonLow.tml
@@ -189,6 +204,7 @@
 3478 70 -4345 3485 73 -4340 SandstoneHouse.tml
 3478 71 -4526 3486 80 -4512 SandstoneBld4_Ruined.tml
 3483 67 -4443 3497 79 -4426 Piston-CreeperRoom.tml
+3510 71 -5103 3521 77 -5093 SandstoneBld3_Intact.tml
 3514 65 -4178 3522 75 -4170 TallTower.tml
 3514 98 -4763 3521 102 -4756 TinyFarmField.tml
 3517 77 1669 3519 81 1672 SkeletonHeadStatue.tml
@@ -203,6 +219,7 @@
 3563 92 -4484 3565 96 -4481 SkeletonHeadStatue.tml
 3600 64 -4953 3609 71 -4944 SandstonePool_Intact.tml
 3611 72 -4171 3620 78 -4159 VanillaVillageEmptyHouse-r.tml
+3620 66 -5116 3626 77 -5110 Obelisk.tml
 3624 63 -5030 3633 70 -5018 SandstoneStructure1_Intact.tml
 3626 64 -4936 3639 73 -4923 VolcanicVent.tml
 3636 70 -4749 3643 77 -4742 Outcrop.tml
@@ -232,3 +249,6 @@
 3894 47 -4683 3905 66 -4647 SunkenShip-v2.tml
 3898 65 -4565 3906 71 -4557 ShortTower.tml
 3949 63 -4938 3961 117 -4926 BaloonHigh.tml
+3982 61 -4617 3997 70 -4602 littlepyramid.tml
+4019 63 -4782 4053 73 -4747 UnderwaterBase.tml
+4027 72 -4522 4034 77 -4511 SandstoneBld5_Intact.tml

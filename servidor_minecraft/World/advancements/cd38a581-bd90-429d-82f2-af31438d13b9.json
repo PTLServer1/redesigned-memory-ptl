@@ -58,5 +58,11 @@
       "has_wood": "2025-03-01 23:24:15 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ocean": "2025-03-02 17:29:51 +0000"
+    },
+    "done": false
   }
 }

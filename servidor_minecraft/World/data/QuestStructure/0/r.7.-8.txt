@@ -12,3 +12,4 @@ VillageSavannaGlassworks,3877,3887,-4419,-4407
 SmallFortRuins,3763,3793,-4349,-4317
 BigClockworkSite,3587,3622,-4363,-4318
 ShrineSmallFire,3697,3707,-4316,-4306
+MonolythHoly,3981,3995,-4463,-4449
