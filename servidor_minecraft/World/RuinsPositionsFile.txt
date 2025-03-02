@@ -448,6 +448,10 @@
 9240 62 9363 9248 68 9371 LargeStoneHouse.tml
 9254 58 9445 9261 68 9452 BridgePilings-sm2.tml
 9309 62 9201 9312 66 9203 SkeletonHeadStatue.tml
+9714 37 10251 9740 49 10259 shipwreck.tml
+9763 67 10091 9773 89 10101 WatchtowerIntact.tml
+9765 69 10176 9773 79 10184 LargeStoneHouseWBasement.tml
+9855 55 10163 9862 65 10170 BridgePilings-sm2.tml
 15509 64 25110 15515 81 25116 VanillaVillageWell-p.tml
 15522 63 25435 15531 66 25444 RuinedSmallFountainDiagonal.tml
 15533 62 25538 15542 71 25546 HutRuined.tml
