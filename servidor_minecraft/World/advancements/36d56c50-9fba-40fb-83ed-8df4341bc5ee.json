@@ -235,6 +235,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-02 19:24:09 +0000",
       "bread": "2025-03-01 23:43:37 +0000"
     },
     "done": false
@@ -368,6 +369,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-03-01 23:45:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2025-03-02 19:19:03 +0000"
     },
     "done": true
   },
@@ -557,6 +564,12 @@
     },
     "done": true
   },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "craft": "2025-03-02 19:22:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2025-03-01 23:23:02 +0000"
@@ -689,6 +702,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "craft": "2025-03-02 19:25:51 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/obelisks": {
     "criteria": {
       "criteria_0": "2025-03-02 18:29:01 +0000"
@@ -734,6 +753,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-03-02 18:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-03-02 19:26:38 +0000"
     },
     "done": true
   },
@@ -974,6 +999,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-03-01 23:29:43 +0000",
+      "birch_forest": "2025-03-02 19:20:06 +0000",
       "beaches": "2025-03-01 23:23:29 +0000",
       "savanna": "2025-03-01 23:34:09 +0000",
       "plains": "2025-03-02 18:21:19 +0000",
@@ -1038,6 +1064,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-03-01 23:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-02 19:26:26 +0000"
     },
     "done": true
   },
