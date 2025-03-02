@@ -266,6 +266,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_planks": "2025-03-02 00:06:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-01 23:29:30 +0000"
@@ -281,6 +287,12 @@
   "mujmajnkraftsbettersurvival:wood_spear": {
     "criteria": {
       "has_stick": "2025-03-01 23:43:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-02 00:15:36 +0000"
     },
     "done": true
   },
@@ -399,11 +411,18 @@
       "desert_hills": "2025-03-01 23:41:46 +0000",
       "savanna": "2025-03-01 23:36:42 +0000",
       "plains": "2025-03-01 23:32:18 +0000",
+      "savanna_rock": "2025-03-02 00:08:17 +0000",
       "ocean": "2025-03-02 00:03:39 +0000",
       "river": "2025-03-01 23:26:16 +0000",
       "desert": "2025-03-01 23:44:53 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-02 00:10:06 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
@@ -489,6 +508,12 @@
     },
     "done": true
   },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2025-03-02 00:07:34 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/paper_lamp": {
     "criteria": {
       "paper": "2025-03-01 23:26:50 +0000"
@@ -510,6 +535,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-03-01 23:34:58 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2025-03-02 00:23:32 +0000"
     },
     "done": true
   },
@@ -594,6 +625,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-03-01 23:40:03 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bark/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-02 00:06:39 +0000"
     },
     "done": true
   },
